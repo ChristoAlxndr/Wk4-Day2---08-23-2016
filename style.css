@@ -1,0 +1,111 @@
+body {
+	background-color: black;
+	color: red;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+#head {
+	text-align: center;
+}
+
+#intro {
+	text-align: right;
+}
+
+#vaderChoke {
+	float: left;
+	height: 20em;
+	width: 24em;
+	margin: 2em;
+}
+
+#starWarsRed {
+	height: 25em;
+	width:	35em;
+}
+
+#helmets {
+	float: right;
+	height: 12em;	
+	width: 20em;
+	margin: 1em;
+}
+
+#rtnJedi {
+	float: left;
+	height: 39em;
+	width: 27em;
+	margin: 2em;
+}
+
+h2 {
+	text-align: left;
+	color: purple;
+}
+
+h3 {
+	text-align: center;
+	color: pink;
+}
+
+aside {
+	border: pink;
+}
+
+#newHope {
+	height: 9em;
+	width: 7em;
+}
+
+#empire {
+	height: 9em;
+	width: 7em;
+}
+
+#rtnJedi2 {
+	height: 9em;
+	width: 7em;
+}
+
+#ep1 {
+	height: 9em;
+	width: 7em;
+}
+
+#ep2 {
+	height: 9em;
+	width: 7em;
+}
+
+#ep3 {
+	height: 9em;
+	width: 7em;
+}
+
+#disney {
+	float: left;
+	height: 30em;
+	width: 45em;
+	margin: 2em;
+}
+
+#ep7 {
+	height: 9em;
+	width: 7em;
+}
+
+#rogue {
+	float: right;
+	height: 7em;
+	width: 9em;
+}
+
+footer {
+	text-align: center;
+	color: blue;
+}
+
