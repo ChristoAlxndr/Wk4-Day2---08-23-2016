@@ -1,11 +1,12 @@
 body {
-	background-color: black;
+	background-image: url("http://i.imgur.com/7CHTikL.png");
 	color: red;
 }
 
 a:hover {
 	color: hotpink;
 	text-decoration: underline;
+	animation-timing-function: ease-in-out;
 }
 
 h1 {
@@ -19,6 +20,10 @@ h1 {
 
 #intro {
 	text-align: right;
+}
+
+#intropara {
+	text-align: center;
 }
 
 #vaderChoke {
@@ -38,6 +43,17 @@ h1 {
 	height: 12em;	
 	width: 20em;
 	margin: 1em;
+}
+
+#juvex {
+	float: right;
+}
+
+#lightsabers {
+	float: left;
+	height: 39em;
+	width: 30em;
+	margin: 2em;
 }
 
 #rtnJedi {
@@ -76,47 +92,89 @@ aside {
 	width: 7em;
 }
 
+#rtnJedi3 {
+	height: 9em;
+	width: 7em;
+}
+
+#ep4-2 {
+	height: 9em;
+	width: 11em;
+}
+
+#ep5-2 {
+	height: 9em;
+	width: 7em;
+}
+
 #ep1 {
 	height: 9em;
 	width: 7em;
+	margin: 2em;
 }
 
 #ep2 {
 	height: 9em;
 	width: 7em;
+	margin: 2em;
 }
 
 #ep3 {
 	height: 9em;
 	width: 7em;
+	margin: 2em;
+}
+
+#allFilms {
+	height: 9em;
+	width: 12em;
+	margin: 2em;
 }
 
 #disney {
+	float: left;
+	height: 30em;
+	width: 45em;
+	margin: 2em;
+}
+
+#disney2 {
+	float: right;
 	height: 30em;
 	width: 45em;
 	margin: 2em;
 }
 
 #ep7 {
-	float: left;
 	height: 9em;
 	width: 7em;
+	margin: 1em;
 }
 
 
 #resources {
+	text-align: center;
 	float: center;
-	height: 2em;
+	font-size: 1.25em;
+}
+
+ul {
+	list-style-type: none;
 }
 
 #rogue {
-	float: right;
 	height: 7em;
 	width: 9em;
 }
 
+#bb8 {
+	float: left;
+	height: 20em;
+	width: 20em;
+}
+
 footer {
 	text-align: center;
-	color: blue;
+	color: white;
 }
 
