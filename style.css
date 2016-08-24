@@ -3,6 +3,11 @@ body {
 	color: red;
 }
 
+a:hover {
+	color: hotpink;
+	text-decoration: underline;
+}
+
 h1 {
 	color: red;
 	text-align: center;
@@ -87,15 +92,21 @@ aside {
 }
 
 #disney {
-	float: left;
 	height: 30em;
 	width: 45em;
 	margin: 2em;
 }
 
 #ep7 {
+	float: left;
 	height: 9em;
 	width: 7em;
+}
+
+
+#resources {
+	float: center;
+	height: 2em;
 }
 
 #rogue {
